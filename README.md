@@ -5,7 +5,8 @@
 
 </div>
 
-It's amazing to have you here!  
+ ## 👩‍💻 About Me 
+I am Harshdeep, and it's amazing to have you here! 
 
 👀 **Interests:** Coding and Problem Solving  
 💞️ **Looking to Collaborate On:** Innovative tech initiatives and research-oriented projects  
@@ -19,9 +20,7 @@ It's amazing to have you here!
 ## 🚀 Technologies & Tools  
 
 <div align="center">
-
-<img width="738" height="277" alt="Screenshot 2025-09-11 121352" src="https://github.com/user-attachments/assets/473b94dd-62cd-4fbb-b3fd-8e3eac3b8cb3" />
-
+<img width="738" height="277" alt="Screenshot_2025-09-11_121352-removebg-preview" src="https://github.com/user-attachments/assets/d951d72b-2431-465d-a21e-b4715e603391" />
 </div>
 
 
