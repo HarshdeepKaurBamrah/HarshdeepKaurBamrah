@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Harshdeep Kaur  
 
-<!--
-**HarshdeepKaurBamrah/HarshdeepKaurBamrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at **Pune Institute of Computer Technology (PICT)**  
 
-Here are some ideas to get you started:
+I am Harshdeep, and it's amazing to have you here!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 **Interests:** Coding , Machine Learning, Problem Solving  
+- 💞️ **Looking to Collaborate On:** Innovative tech initiatives and research-oriented projects  
+- 📫 **Reach Me At:**  
+  - 📧 Email: harshdeepbamrah71@gmail.com  
+  - 🔗 LinkedIn: https://www.linkedin.com/in/harshdeep-kaur-bamrah-48b01830b/
+
+🚀 Technologies & Tools
+
+<img width="930" height="308" alt="Screenshot 2025-09-11 120951" src="https://github.com/user-attachments/assets/2e69ff38-f73b-48a3-8eaa-db32a06e1d21" />
+
+
+
+
+
