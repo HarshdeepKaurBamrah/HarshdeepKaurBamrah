@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Harshdeep Kaur  
+# 👋 Hi, I'm Harshdeep Kaur Bamrah
 🎓 Computer Science Student at Pune Institute of Computer Technology (PICT)  
 
 </div>
